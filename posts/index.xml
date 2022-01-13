@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Hello Guys, Welcome to my Blog !</title>
+        <link>https://nphatcampcode.github.io/posts/</link>
+        <description>Recent content in Posts on Hello Guys, Welcome to my Blog !</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Thu, 13 Jan 2022 15:41:31 +0700</lastBuildDate>
+        <atom:link href="https://nphatcampcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Hello</title>
+            <link>https://nphatcampcode.github.io/posts/2022/01/hello/</link>
+            <pubDate>Thu, 13 Jan 2022 15:41:31 +0700</pubDate>
+            
+            <guid>https://nphatcampcode.github.io/posts/2022/01/hello/</guid>
+            <description>Hello guys! </description>
+            <content type="html"><![CDATA[<h1 id="hello-guys">Hello guys!</h1>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
